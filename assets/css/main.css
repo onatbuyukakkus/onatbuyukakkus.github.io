@@ -2653,7 +2653,8 @@
 			-ms-transition: background-color 0.2s ease-in-out;
 			transition: background-color 0.2s ease-in-out;
 			background-color: rgba(144, 144, 144, 0.075);
-			background-image: url("images/arrow2.png");
+			background-image: url("images/arrow.png");
+			background-size: 36px 36px;
 			background-position: center center;
 			background-repeat: no-repeat;
 			border-radius: 100%;
